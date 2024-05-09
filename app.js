@@ -228,3 +228,5 @@ const orientPoints = (pieceType, rotation) => {
   }
   return results;
 };
+
+console.log(orientPoints(1, 3));
